@@ -1,4 +1,4 @@
-# Lumibyte Chat — ChatGPT Style (Vite + React + Tailwind)
+# Lumibyte Chat — ChatGPT Style
 
 ## Quick start
 
